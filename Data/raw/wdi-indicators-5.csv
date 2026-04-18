@@ -1,0 +1,6 @@
+﻿Indicator,Column in Dataset,How It Relates to the Analysis
+GDP (current US$),GDP_current_US,Measures the size of a country’s economy. Used to understand whether economic prosperity influences the relationship between inequality and happiness.
+Education Expenditure (% of GDP),government_expenditure_on_education%,Captures national investment in human capital. Helps test whether development conditions moderate the inequality–happiness relationship.
+Health Expenditure (% of GDP),government_health_expenditure%,Reflects investment in public health systems. Provides context for well‑being beyond income and inequality.
+Inflation (annual %),inflation_annual%,"Indicates macroeconomic stability. High inflation can reduce real income and affect life satisfaction, making it relevant for understanding economic stress."
+Urban Population (%),urban_population% (computed from population and rural_population),"Represents the share of people living in urban areas. Urbanization influences social structure, access to services, and overall well‑being."
